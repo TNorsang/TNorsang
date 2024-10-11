@@ -1,48 +1,57 @@
 # 👋 Hello and Tashi Delek!
-# https://www.norsangnyandak.com/
 
-## 🚀 About Me
+Welcome to my GitHub! I'm Norsang Nyandak, a passionate developer skilled in crafting solutions that enhance user experiences. Feel free to explore my projects and connect with me!
 
-- 💻 I love working with:
-  - Java, Kotlin, Python
-  - Android Development
-  - Web Technologies (HTML, CSS, JavaScript)
-  - RESTful APIs and Microservices
+🚀 **About Me**
 
-- 🌱 Currently learning:
-  - [React](https://reactjs.org/)
-  - [Flutter](https://flutter.dev/)
-  - Cloud technologies (AWS, Azure)
+- 🏫 **Education:** B.S. in Computer Science from New Jersey Institute of Technology - Ying Wu College of Computing
+- 📜 **Certificates:** Full Stack Development Certification - Rutgers University
+- 🌐 **Website:** [norsangnyandak.com](https://www.norsangnyandak.com/)
+- 📈 **Experience:** Software Engineer Intern at Visual Intelligence LLC, where I increased user engagement by 20% by developing an AI agent platform.
 
-- 🎯 My goal is to build applications that solve real-world problems and enhance user experiences.
+💻 **I Love Working With**
 
-## 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript, TypeScript, Java, Kotlin, HTML, CSS
+- **Frameworks/Technologies:** React.js, Node.js, Next.js, PyTorch, OpenCV, Transformers, Tailwind CSS, RESTful APIs
+- **Developer Tools:** PostgreSQL, Amazon Web Services, Docker, Git, Agile/Scrum
+- **Mobile/Web Development:** Android Development, Web Technologies
 
-![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%7F52B1%2D5B.svg?style=flat&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23333%3F.svg?style=flat&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=black)
-![React](https://img.shields.io/badge/React-%2328232B.svg?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+🌱 **Currently Learning**
 
-## 📂 Projects
+- **React** — Advancing my skills in front-end development
+- **Flutter** — Diving into cross-platform mobile app development
+- **Cloud Technologies** — Exploring AWS and Azure to enhance my deployment skills
 
-Here are a few projects I’ve worked on:
+🎯 **My Goals**
 
-1. **[Project Name](link-to-your-project)**: Brief description of what this project does and the technologies used.
-2. **[Another Project](link-to-your-project)**: Brief description of this project.
-3. **[More Projects](link-to-your-projects)**: Explore my other projects on GitHub!
+My goal is to build applications that solve real-world problems and significantly enhance user experiences. I strive to remain at the forefront of technology and adapt to ever-evolving digital landscapes.
 
-## 🤝 Connect with Me
+🛠️ **Technologies & Tools**
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📫 Get in Touch
+📂 **Projects**
+
+- **Philo:** An Artificial Emotional Platform aimed to mimic companionship. [Visit Project](https://philo-x1.vercel.app/)
+- **More Projects:** Explore my [GitHub repositories](https://github.com/yourgithubusername) for additional projects and contributions.
+
+🤝 **Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [Twitter](https://twitter.com/yourtwitter)
+- [Portfolio](https://www.norsangnyandak.com/)
+
+📫 **Get in Touch**
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
----
-
-⭐️ Thank you for visiting my profile!
+⭐️ **Thank you for visiting my profile!**
