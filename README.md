@@ -18,9 +18,8 @@ Welcome to my GitHub! Aspiring Software Developer with a Passion for AI Integrat
 
 🌱 **Currently Learning**
 
-- **React** — Advancing my skills in front-end development
-- **Flutter** — Diving into cross-platform mobile app development
-- **Cloud Technologies** — Exploring AWS and Azure to enhance my deployment skills
+- **Next.js** — Advancing my skills in front-end development
+- **RAG (Retrieval Augmented Generation)** — Exploring advanced techniques to integrate AI and machine learning into applications for more dynamic and intelligent user experiences.
 
 🎯 **My Goals**
 
@@ -31,11 +30,15 @@ My goal is to build applications that solve real-world problems and significantl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-009688?style=flat&logo=rest&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -47,7 +50,6 @@ My goal is to build applications that solve real-world problems and significantl
 🤝 **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/norsang-nyandak/)
-- [Twitter](https://twitter.com/yourtwitter) <!-- Update your Twitter link here -->
 - [Portfolio](https://www.norsangnyandak.com/)
 
 📫 **Get in Touch**
