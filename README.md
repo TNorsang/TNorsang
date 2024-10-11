@@ -1,6 +1,6 @@
-# 👋 Hello and Tashi Delek!
+# 👋 Hello and Tashi Delek, I'm Norsang Nyandak!
 
-Welcome to my GitHub! I'm Norsang Nyandak, a passionate developer skilled in crafting solutions that enhance user experiences. Feel free to explore my projects and connect with me!
+Welcome to my GitHub! Aspiring Software Developer with a Passion for AI Integration in Full Stack Development | Bachelors of Computer Science @NJIT | Certification in Full Stack Development @Rutgers. Feel free to explore my projects and connect with me!
 
 🚀 **About Me**
 
@@ -42,12 +42,12 @@ My goal is to build applications that solve real-world problems and significantl
 📂 **Projects**
 
 - **Philo:** An Artificial Emotional Platform aimed to mimic companionship. [Visit Project](https://philo-x1.vercel.app/)
-- **More Projects:** Explore my [GitHub repositories](https://github.com/yourgithubusername) for additional projects and contributions.
+- **More Projects:** Explore my [GitHub repositories](https://github.com/TNorsang) for additional projects and contributions.
 
 🤝 **Connect with Me**
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- [Twitter](https://twitter.com/yourtwitter)
+- [LinkedIn](https://www.linkedin.com/in/norsang-nyandak/)
+- [Twitter](https://twitter.com/yourtwitter) <!-- Update your Twitter link here -->
 - [Portfolio](https://www.norsangnyandak.com/)
 
 📫 **Get in Touch**
