@@ -9,7 +9,7 @@ Feel free to explore my projects and connect with me!
 - 🏫 **Education:** B.S. in Computer Science from New Jersey Institute of Technology - Ying Wu College of Computing
 - 📜 **Certificates:** Full Stack Development Certification - Rutgers University
 - 🌐 **Website:** [norsangnyandak.com](https://www.norsangnyandak.com/)
-- 📈 **Experience:** Software Engineer Intern at Visual Intelligence LLC, where I increased user engagement by 20% by developing an AI agent platform.
+- 📈 **Experience:** Software Engineer Intern at Visual Intelligence LLC | Information Technology Specialist at Santech Global Corp
 
 💻 **I Love Working With**
 
