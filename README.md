@@ -14,14 +14,8 @@ Feel free to explore my projects and connect with me!
 💻 **I Love Working With**
 
 - **Languages:** Python, JavaScript, TypeScript, Java, Kotlin, HTML, CSS
-- **Frameworks/Technologies:** React.js, Node.js, Next.js, PyTorch, OpenCV, Transformers, Tailwind CSS, RESTful APIs
+- **Frameworks/Technologies:** React.js, Node.js, Next.js, Tailwind CSS, PyTorch, OpenCV, RESTful APIs
 - **Developer Tools:** PostgreSQL, Amazon Web Services, Docker, Git, Agile/Scrum
-- **Mobile/Web Development:** Android Development, Web Technologies
-
-🌱 **Currently Learning**
-
-- **Next.js** — Advancing my skills in front-end development
-- **RAG (Retrieval Augmented Generation)** — Exploring advanced techniques to integrate AI and machine learning into applications for more dynamic and intelligent user experiences.
 
 🎯 **My Goals**
 
