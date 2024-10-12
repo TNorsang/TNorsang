@@ -1,6 +1,8 @@
 # 👋 Hello and Tashi Delek, I'm Norsang Nyandak!
 
-Welcome to my GitHub! Aspiring Software Developer with a Passion for AI Integration in Full Stack Development | Bachelors of Computer Science @NJIT | Certification in Full Stack Development @Rutgers. Feel free to explore my projects and connect with me!
+Welcome to my GitHub! 
+I am an aspiring Software Developer with a Passion for AI Integration in Full Stack Development.
+Feel free to explore my projects and connect with me!
 
 🚀 **About Me**
 
