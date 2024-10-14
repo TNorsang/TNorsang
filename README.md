@@ -41,7 +41,7 @@ My goal is to build applications that solve real-world problems and significantl
 📂 **Projects**
 
 - **Philo:** An Artificial Emotional Platform aimed to mimic companionship. [Visit Project](https://philo-x1.vercel.app/)
-- **More Projects:** Explore my [GitHub repositories]((https://github.com/TNorsang?tab=repositories)) for additional projects and contributions.
+- **More Projects:** Explore my [GitHub repositories](https://github.com/TNorsang?tab=repositories) for additional projects and contributions.
 
 🤝 **Connect with Me**
 
